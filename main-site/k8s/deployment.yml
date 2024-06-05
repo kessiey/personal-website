@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
         - name: main-site
-          image: 879132841444.dkr.ecr.eu-north-1.amazonaws.com/kessietech:IMAGE_TAG_PLACEHOLDER
+          image: 650204351009.dkr.ecr.us-east-2.amazonaws.com/kessietech:IMAGE_TAG_PLACEHOLDER
           ports:
             - containerPort: 80
           resources:
